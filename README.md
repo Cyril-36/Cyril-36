@@ -1,31 +1,111 @@
-# 💫 About Me:
-Yes, I can help you fill this. I checked your connected GitHub profile details available here: **name: Chaitanya Pudota**, username **Cyril-36**. Your GitHub profile data available through the connector is limited, so I’ll use your project/background details too.<br><br>For this **About Me** section, paste this:<br><br>```text<br>🔭 I’m currently working on<br>AI-powered developer tools, open-source contributions, and portfolio projects around Python, Java, React, and machine learning.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects, AI/ML tools, full-stack web apps, and developer productivity projects.<br><br>🤝 I’m looking for help with<br>Writing production-quality code, improving testing skills, contributing to larger open-source codebases, and building stronger real-world projects.<br><br>🌱 I’m currently learning<br>Advanced Python, Java, React, TypeScript, machine learning workflows, Git/GitHub collaboration, and open-source contribution practices.<br><br>💬 Ask me about<br>AI tools, Java projects, Python basics, full-stack projects, GitHub workflows, student tech projects, and building internship-ready portfolios.<br><br>⚡ Fun fact<br>I like turning small learning experiments into real portfolio projects and I’m currently building consistency through open-source contributions.<br>```<br><br>For a cleaner, more professional version, use this instead:<br><br>```text<br>🔭 I’m currently working on<br>AI developer tools, ML-based academic projects, and open-source contributions.<br><br>👯 I’m looking to collaborate on<br>Python, Java, React, AI/ML, and beginner-friendly open-source projects.<br><br>🤝 I’m looking for help with<br>Writing cleaner production code, testing, code reviews, and contributing to larger real-world repositories.<br><br>🌱 I’m currently learning<br>Machine learning, TypeScript, React, advanced Python, Java, and GitHub collaboration workflows.<br><br>💬 Ask me about<br>AI tools, Java applications, Python, beginner ML projects, full-stack development, and GitHub contribution workflows.<br><br>⚡ Fun fact<br>I’m building my GitHub profile one real contribution and one project improvement at a time.<br>```<br><br>I’d use the **second version**. It looks more recruiter-friendly and less crowded.<br><br>For your profile headline/bio later, use:<br><br>```text<br>B.Tech CSE (AI & ML) student | Python, Java, React & ML | Building AI tools, full-stack projects, and contributing to open source<br>```<br><br>One question before I help with the next GPRM pages: do you want your GitHub profile to look more **student-friendly**, **internship/recruiter-focused**, or **open-source contributor-focused**?<br>
+<!-- Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Cyril%20Pudota&fontSize=45&fontAlignY=35&fontColor=FFFFFF&desc=B.Tech%20CSE%20(AIML)%20%7C%20AI%20%F0%9F%A4%96%20%2B%20Dev%20Tools%20%F0%9F%92%BB&descAlignY=55&descAlign=50)
 
+<div align="center">
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cyrilchaitanya@gmail.com) 
+### 👋 Hey, I’m Cyril
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat&logo=openapiinitiative&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=cyril-36&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=cyril-36&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=cyril-36&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Student @ Lovely Professional University · B.Tech CSE (AIML)  
+I love building AI/ML projects, dev tools, and clean little terminal experiences.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cyril-36&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+[![GitHub](https://img.shields.io/badge/GitHub-Cyril--36-181717?style=for-the-badge&logo=github)](https://github.com/Cyril-36)
+<!-- Add or remove socials as you create them -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cyril-36&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=cyril-36&icon=0&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Cyril_36) 
+## 🧠 What I’m into
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 Building AI/ML projects, academic experiments, and open‑source dev tools.  
+- 🧪 Playing with clustering, recommenders, and search (BM25, TF‑IDF, vector-ish vibes).  
+- 🛠️ Crafting small agents, scrapers, and CLI utilities that actually feel fun to use.  
+- 🌱 Currently learning better system design, scalable backends, and deeper ML.
+
+---
+
+## 🚀 Highlighted work
+
+> Replace descriptions/links as you evolve your projects.
+
+- 🧬 **Collaborative Learning Group Formation via Similarity Clustering**  
+  Forming smarter student study groups using unsupervised learning and real‑world data.
+
+- 🕵️ **FOA Scraper**  
+  A focused scraper to mine FOA / research opportunities data and prep it for GSoC‑style workflows.  
+  `Repo:` [github.com/Cyril-36/foa-scraper](https://github.com/Cyril-36/foa-scraper)
+
+- 🤖 **Support‑Ticket AI Agents (Hackathon builds)**  
+  Terminal‑driven agents that triage and resolve support tickets using search + LLMs.
+
+- 🛒 **ShopWave Autonomous Support Agent**  
+  An experimental agent that navigates orders, tickets, and a knowledge base to resolve customer issues.
+
+> More projects coming soon… stay tuned to the pinned repos 👀
+
+---
+
+## 🛠 Tech I work with
+
+<div align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<br/>
+
+<!-- Web / Frameworks -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/>
+
+<!-- AI / Data -->
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub by the numbers
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cyril-36&show_icons=true&theme=tokyonight&hide_border=true" alt="Cyril's GitHub stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyril-36&theme=tokyonight&hide_border=true" alt="Cyril's GitHub streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-36&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🌌 A tiny philosophy
+
+> “Build small, ship often, and let the experiments teach you more than the tutorials.”
+
+If you’re into AI, agents, or weird little dev tools, feel free to open an issue, drop a PR, or just say hi in the discussions.
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=140&section=footer)
