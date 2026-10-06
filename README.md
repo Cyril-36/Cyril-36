@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" width="300" />
+</p>
+
 <div align="center">
-  <img src="./assets/coding.svg" width="520" alt="Animated illustration of Cyril coding" />
   <h2>hey, i'm Cyril 👋</h2>
   <sub>AI/ML · backend · RAG · evaluation</sub>
   <br /><br />
@@ -7,7 +10,7 @@
   <a href="https://github.com/Cyril-36/portfolio"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Portfolio code" /></a>
   <a href="https://github.com/Cyril-36?tab=repositories"><img src="https://img.shields.io/badge/Projects-17202E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=Cyril-36&amp;label=VISITORS&amp;color=8B5CF6&amp;style=flat-square" alt="Profile visits" />
+  <img src="https://hits.sh/github.com/Cyril-36.svg?label=visitors&amp;color=7C5CFF&amp;style=flat-square" alt="Profile visits" />
 </div>
 
 ## <img src="./assets/icons/layers.svg" width="20" height="20" alt="" /> Stack
@@ -29,9 +32,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake.svg" width="98%" alt="Animated snake crossing Cyril-36's contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/pacman-contribution-graph.svg" width="98%" alt="Animated Pac-Man crossing Cyril-36's contribution graph" />
   </picture>
 </div>
 
