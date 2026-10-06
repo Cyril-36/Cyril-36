@@ -1,205 +1,72 @@
 <div align="center">
-
-<img src="./assets/hero.svg" width="100%" alt="Chaitanya Pudota aka Cyril" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=650&color=7C5CFF&center=true&vCenter=true&repeat=true&width=900&lines=yo+%F0%9F%91%8B+i%27m+Chaitanya+aka+Cyril;I+build+AI%2FML+stuff+that+actually+does+things;RAG+%E2%80%A2+agents+%E2%80%A2+backend+%E2%80%A2+evaluation;turning+side+quests+into+GitHub+repos+since+forever;build+%E2%86%92+break+%E2%86%92+debug+%E2%86%92+ship+%E2%86%92+repeat" alt="Typing intro" />
-
-<br/>
-
-<a href="https://github.com/Cyril-36"><img src="https://img.shields.io/badge/GitHub-Cyril--36-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/chaitanya-pudota-796528294/"><img src="https://img.shields.io/badge/LinkedIn-Chaitanya%20Pudota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Cyril-36&style=for-the-badge&color=7C5CFF&label=PROFILE+VIEWS" />
-
+  <img src="./assets/hero.svg" width="100%" alt="Chaitanya Pudota — I build AI that can show its work" />
+  <br /><br />
+  <a href="https://github.com/Cyril-36?tab=repositories">Projects</a> ·
+  <a href="https://www.linkedin.com/in/chaitanya-pudota-796528294/">LinkedIn</a> ·
+  <a href="https://github.com/Cyril-36/portfolio">Portfolio code</a>
+  <br /><br />
+  <sub>AI with receipts. Backends with guardrails. A little bit of chaos, carefully tested.</sub>
 </div>
 
----
+## <img src="./assets/icons/sparkles.svg" width="21" height="21" alt="" /> Hey, I'm Cyril 👋
 
-## 🧃 okay so... who am i?
+I'm **Chaitanya Pudota**, a B.Tech CSE student working across **AI/ML and backend engineering**. I like the exciting part of building with models, but I care just as much about the part after the demo: where the answer came from, whether the numbers check out, and what happens when a dependency fails.
 
-```yaml
-name: Chaitanya Pudota
-aka: Cyril
-degree: B.Tech CSE (AI & ML)
-university: Lovely Professional University
+`current side quests:` RAG · tool-using agents · data products · evaluation · practical ML
 
-current_obsessions:
-  - RAG systems
-  - tool-using agents
-  - backend engineering
-  - evaluation + guardrails
-  - making AI less "trust me bro"
+> My build loop: **make it → measure it → break it → fix it → ship it.**
 
-build_loop: "idea → prototype → test → break → fix → ship"
-```
+## <img src="./assets/icons/layout-grid.svg" width="21" height="21" alt="" /> Selected builds
 
-i like AI projects where the model isn't allowed to freestyle the whole product 😭  
-give me **retrieval, validators, deterministic logic, evals, logs, and a backend that fights back**.
+| Project | The interesting bit |
+| :-- | :-- |
+| **[ClientAtlas](https://github.com/Cyril-36/clientatlas-rag)** | A multi-tenant knowledge workspace with hybrid retrieval, page-level citations, and PostgreSQL row-level security. If an answer cannot support its claims, it abstains. |
+| **[Tally](https://github.com/Cyril-36/tally-ai-data-analyst)** | An AI data analyst where the model chooses a bounded analysis plan, while backend code runs the SQL, calculates the figures, and checks the claims. |
+| **[CallKavach](https://github.com/Cyril-36/callkavach)** | A second-device scam-call assistant for Hindi, Telugu, and English. Warnings must quote the caller's words and pass fixed rules. |
+| **[PictoPy](https://github.com/Cyril-36/PictoPy)** | A desktop photo gallery built with Tauri, React, Rust, and Python, with local image analysis and search. |
 
----
+<sub>More experiments, prototypes, and side quests live in <a href="https://github.com/Cyril-36?tab=repositories">the repository list</a>.</sub>
 
-## 🍳 currently cooking
+## <img src="./assets/icons/layers.svg" width="21" height="21" alt="" /> Toolbox
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Languages** `Python` `TypeScript` `JavaScript` `C++` `SQL`  
+**Apps & APIs** `FastAPI` `React` `Next.js` `PostgreSQL` `Docker`  
+**ML & data** `PyTorch` `scikit-learn` `retrieval` `evaluation`  
+**Everyday tools** `Git` `GitHub Actions` `Linux`
 
-### 🗺️ [ClientAtlas](https://github.com/Cyril-36/clientatlas-rag)
+## <img src="./assets/icons/route.svg" width="21" height="21" alt="" /> How I build
 
-RAG workspace where answers need receipts.
+- **Show the source.** Retrieval, citations, and traceable calculations make an answer inspectable.
+- **Let code do the counting.** Models can choose within a bounded task; validators and deterministic logic own the important numbers and rules.
+- **Test the awkward paths.** Ambiguity, failures, isolation, and replay deserve as much attention as the happy demo.
 
-**the sauce:** hybrid retrieval, citations, tenant isolation, RLS, evaluation
-
-`RAG` `pgvector` `PostgreSQL` `Next.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [Tally](https://github.com/Cyril-36/tally-ai-data-analyst)
-
-AI data analyst that is *not* allowed to invent the math.
-
-**the sauce:** checked calculations, SQL traces, charts, anomaly detection
-
-`FastAPI` `DuckDB` `Docker` `LLM tools`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [CallKavach](https://github.com/Cyril-36/callkavach)
-
-A second device that listens to doubtful speakerphone calls and flags scam tactics with the caller's own words.
-
-**the sauce:** streaming STT, evidence validation, fixed warning rules
-
-`WebSockets` `FastAPI` `Speech AI` `LLMs`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 [HarvestSense](https://github.com/Cyril-36/harvestsense)
-
-Crop-to-market optimizer where the agents can argue, but the deterministic engine gets the final say.
-
-**the sauce:** real mandi data, exhaustive planning, validation, LangGraph agents
-
-`Python` `LangGraph` `Pydantic` `Evaluation`
-
-</td>
-</tr>
-</table>
+## <img src="./assets/icons/activity.svg" width="21" height="21" alt="" /> Commit pulse
 
 <div align="center">
-
-### side quests never end ↓
-
-[![All Repos](https://img.shields.io/badge/see_all_35%2B_repos-→-7C5CFF?style=for-the-badge)](https://github.com/Cyril-36?tab=repositories)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyril-36&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=The%20commit%20plot%20thickens" width="98%" alt="GitHub contribution activity graph for Cyril-36" />
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake.svg" width="98%" alt="Animated snake moving across Cyril-36's GitHub contribution grid" />
+  </picture>
 </div>
 
----
+<details>
+  <summary><b>More GitHub stats ↗</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://github-readme-stats.shion.dev/api?username=Cyril-36&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" height="165" alt="GitHub stats for Cyril-36" />
+    <img src="https://streak-stats.demolab.com/?user=Cyril-36&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub contribution streak for Cyril-36" />
+  </div>
+</details>
 
-## 🎒 stuff in my backpack
+## <img src="./assets/icons/send.svg" width="21" height="21" alt="" /> Say hi
+
+If you're building something around **useful AI, reliable backends, or thoughtful evaluation**, I'd love to see it. Reach me on **[LinkedIn](https://www.linkedin.com/in/chaitanya-pudota-796528294/)** or open a discussion on one of my public projects.
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,fastapi,postgres,docker,git,github,vscode,linux,pytorch,sklearn&perline=9" alt="Tech stack" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/RAG-🧠-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Agents-🤖-1F2937?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Evals-📏-312E81?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FastAPI-⚡-065F46?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PostgreSQL-🐘-1E3A8A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-📦-075985?style=for-the-badge" />
-
+  <sub>Thanks for dropping by. Now back to the side quests ✨</sub>
 </div>
 
----
-
-## 🧠 my brain has one recurring thought
-
-<div align="center">
-
-### `"can we make this deterministic?"`
-
-</div>
-
-```text
-AI does the fuzzy thing
-        ↓
-code checks the important thing
-        ↓
-tests try to ruin my day
-        ↓
-metrics expose the delusion
-        ↓
-ship it anyway (but responsibly)
-```
-
----
-
-## 📈 github lore
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyril-36&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-36&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/><br/>
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cyril-36&theme=tokyo-night&hide_border=true&area=true&custom_title=the%20commit%20plot%20thickens..." alt="Contribution activity graph" />
-
-</div>
-
----
-
-## 🐍 contribution snake goes brrrr
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
----
-
-## 🎮 character stats
-
-```text
-curiosity        ███████████████████░   95%
-shipping         ██████████████████░░   90%
-debugging        ████████████████████   unavoidable
-sleep schedule   ██████░░░░░░░░░░░░░   classified
-README restraint ██░░░░░░░░░░░░░░░░░   clearly failed
-```
-
----
-
-## 💬 random dev lore
-
-- i will absolutely turn a class project into a full architecture diagram
-- if an AI gives a number, i want to know **where that number came from**
-- agent says "trust me" → validator says **no ❤️**
-- somehow the "small experiment" always becomes another repo
-- clean terminal output = free serotonin
-
----
-
-<div align="center">
-
-### thanks for scrolling this far, you're basically in the repo now 🤝
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=2CB67D&center=true&vCenter=true&width=700&lines=build+cool+stuff.;measure+the+cool+stuff.;make+the+cool+stuff+actually+work.;repeat+until+git+status+is+clean." alt="Footer animation" />
-
-<br/>
-
-<sub>⚡ AI/ML • backend • RAG • agents • evals • side quests</sub>
-
-</div>
+<!-- Created with GPRM (https://gprm.itsvg.in/) as a starting point; customized for this profile. -->
