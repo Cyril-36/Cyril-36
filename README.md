@@ -1,64 +1,45 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Chaitanya Pudota — I build AI that can show its work" />
+  <img src="./assets/coding.svg" width="520" alt="Animated illustration of Cyril coding" />
+  <h2>hey, i'm Cyril 👋</h2>
+  <sub>AI/ML · backend · RAG · evaluation</sub>
   <br /><br />
-  <a href="https://github.com/Cyril-36?tab=repositories">Projects</a> ·
-  <a href="https://www.linkedin.com/in/chaitanya-pudota-796528294/">LinkedIn</a> ·
-  <a href="https://github.com/Cyril-36/portfolio">Portfolio code</a>
+  <a href="https://www.linkedin.com/in/chaitanya-pudota-796528294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Cyril-36/portfolio"><img src="https://img.shields.io/badge/Portfolio-7C5CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Portfolio code" /></a>
+  <a href="https://github.com/Cyril-36?tab=repositories"><img src="https://img.shields.io/badge/Projects-17202E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
   <br /><br />
-  <sub>AI with receipts. Backends with guardrails. A little bit of chaos, carefully tested.</sub>
+  <img src="https://komarev.com/ghpvc/?username=Cyril-36&amp;label=VISITORS&amp;color=8B5CF6&amp;style=flat-square" alt="Profile visits" />
 </div>
 
-## <img src="./assets/icons/sparkles.svg" width="21" height="21" alt="" /> Hey, I'm Cyril 👋
-
-I'm **Chaitanya Pudota**, a B.Tech CSE student working across **AI/ML and backend engineering**. I like the exciting part of building with models, but I care just as much about the part after the demo: where the answer came from, whether the numbers check out, and what happens when a dependency fails.
-
-`current side quests:` RAG · tool-using agents · data products · evaluation · practical ML
-
-> My build loop: **make it → measure it → break it → fix it → ship it.**
-
-## <img src="./assets/icons/layout-grid.svg" width="21" height="21" alt="" /> Selected builds
-
-| Project | The interesting bit |
-| :-- | :-- |
-| **[ClientAtlas](https://github.com/Cyril-36/clientatlas-rag)** | A multi-tenant knowledge workspace with hybrid retrieval, page-level citations, and PostgreSQL row-level security. If an answer cannot support its claims, it abstains. |
-| **[Tally](https://github.com/Cyril-36/tally-ai-data-analyst)** | An AI data analyst where the model chooses a bounded analysis plan, while backend code runs the SQL, calculates the figures, and checks the claims. |
-| **[CallKavach](https://github.com/Cyril-36/callkavach)** | A second-device scam-call assistant for Hindi, Telugu, and English. Warnings must quote the caller's words and pass fixed rules. |
-| **[PictoPy](https://github.com/Cyril-36/PictoPy)** | A desktop photo gallery built with Tauri, React, Rust, and Python, with local image analysis and search. |
-
-<sub>More experiments, prototypes, and side quests live in <a href="https://github.com/Cyril-36?tab=repositories">the repository list</a>.</sub>
-
-## <img src="./assets/icons/layers.svg" width="21" height="21" alt="" /> Toolbox
-
-**Languages** `Python` `TypeScript` `JavaScript` `C++` `SQL`  
-**Apps & APIs** `FastAPI` `React` `Next.js` `PostgreSQL` `Docker`  
-**ML & data** `PyTorch` `scikit-learn` `retrieval` `evaluation`  
-**Everyday tools** `Git` `GitHub Actions` `Linux`
-
-## <img src="./assets/icons/route.svg" width="21" height="21" alt="" /> How I build
-
-- **Show the source.** Retrieval, citations, and traceable calculations make an answer inspectable.
-- **Let code do the counting.** Models can choose within a bounded task; validators and deterministic logic own the important numbers and rules.
-- **Test the awkward paths.** Ambiguity, failures, isolation, and replay deserve as much attention as the happy demo.
-
-## <img src="./assets/icons/activity.svg" width="21" height="21" alt="" /> Commit pulse
+## <img src="./assets/icons/layers.svg" width="20" height="20" alt="" /> Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Cyril-36&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" height="165" alt="GitHub stats for Cyril-36" />
-  <img src="https://streak-stats.demolab.com/?user=Cyril-36&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub contribution streak for Cyril-36" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,postgres,docker,pytorch,git,githubactions&amp;perline=10&amp;theme=dark" alt="Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, Docker, PyTorch, Git, and GitHub Actions" />
+</div>
+
+## <img src="./assets/icons/activity.svg" width="20" height="20" alt="" /> Pulse
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Cyril-36&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" height="160" alt="GitHub stats for Cyril-36" />
+  <img src="https://streak-stats.demolab.com/?user=Cyril-36&amp;theme=tokyonight&amp;hide_border=true" height="160" alt="GitHub contribution streak for Cyril-36" />
   <br /><br />
+  <img src="https://trophy.ryglcloud.net/?username=Cyril-36&amp;theme=tokyonight&amp;column=4&amp;row=1&amp;margin-w=8&amp;no-bg=false&amp;no-frame=false" alt="GitHub achievement trophies for Cyril-36" />
+</div>
+
+## <img src="./assets/icons/route.svg" width="20" height="20" alt="" /> Contributions
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake.svg" width="98%" alt="Animated snake moving across Cyril-36's GitHub contribution grid" />
+    <img src="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake.svg" width="98%" alt="Animated snake crossing Cyril-36's contribution graph" />
   </picture>
 </div>
 
-## <img src="./assets/icons/send.svg" width="21" height="21" alt="" /> Say hi
+## <img src="./assets/icons/layout-grid.svg" width="20" height="20" alt="" /> Builds
 
-If you're building something around **useful AI, reliable backends, or thoughtful evaluation**, I'd love to see it. Reach me on **[LinkedIn](https://www.linkedin.com/in/chaitanya-pudota-796528294/)** or open a discussion on one of my public projects.
+**[ClientAtlas](https://github.com/Cyril-36/clientatlas-rag)** · cited answers  
+**[Tally](https://github.com/Cyril-36/tally-ai-data-analyst)** · checked numbers
 
 <div align="center">
-  <sub>Thanks for dropping by. Now back to the side quests ✨</sub>
+  <sub>make → measure → break → fix → ship ✦</sub>
 </div>
-
-<!-- Created with GPRM (https://gprm.itsvg.in/) as a starting point; customized for this profile. -->
