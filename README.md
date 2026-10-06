@@ -43,7 +43,8 @@ I'm **Chaitanya Pudota**, a B.Tech CSE student working across **AI/ML and backen
 ## <img src="./assets/icons/activity.svg" width="21" height="21" alt="" /> Commit pulse
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyril-36&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=The%20commit%20plot%20thickens" width="98%" alt="GitHub contribution activity graph for Cyril-36" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Cyril-36&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" height="165" alt="GitHub stats for Cyril-36" />
+  <img src="https://streak-stats.demolab.com/?user=Cyril-36&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub contribution streak for Cyril-36" />
   <br /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake-dark.svg" />
@@ -51,15 +52,6 @@ I'm **Chaitanya Pudota**, a B.Tech CSE student working across **AI/ML and backen
     <img src="https://raw.githubusercontent.com/Cyril-36/Cyril-36/output/github-contribution-grid-snake.svg" width="98%" alt="Animated snake moving across Cyril-36's GitHub contribution grid" />
   </picture>
 </div>
-
-<details>
-  <summary><b>More GitHub stats ↗</b></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=Cyril-36&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" height="165" alt="GitHub stats for Cyril-36" />
-    <img src="https://streak-stats.demolab.com/?user=Cyril-36&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub contribution streak for Cyril-36" />
-  </div>
-</details>
 
 ## <img src="./assets/icons/send.svg" width="21" height="21" alt="" /> Say hi
 
