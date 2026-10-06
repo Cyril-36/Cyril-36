@@ -1,111 +1,145 @@
-<!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Cyril%20Pudota&fontSize=45&fontAlignY=35&fontColor=FFFFFF&desc=B.Tech%20CSE%20(AIML)%20%7C%20AI%20%F0%9F%A4%96%20%2B%20Dev%20Tools%20%F0%9F%92%BB&descAlignY=55&descAlign=50)
-
 <div align="center">
 
-### 👋 Hey, I’m Cyril
+<img src="./assets/hero.svg" width="100%" alt="Chaitanya Pudota — AI/ML and backend engineering" />
 
-Student @ Lovely Professional University · B.Tech CSE (AIML)  
-I love building AI/ML projects, dev tools, and clean little terminal experiences.
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Cyril--36-181717?style=for-the-badge&logo=github)](https://github.com/Cyril-36)
-<!-- Add or remove socials as you create them -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL) -->
+<a href="https://github.com/Cyril-36">
+  <img src="https://img.shields.io/badge/GitHub-Cyril--36-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/chaitanya-pudota-796528294/">
+  <img src="https://img.shields.io/badge/LinkedIn-Chaitanya%20Pudota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=Building+reliable+AI+systems%2C+not+just+demos;RAG+%E2%80%A2+Agents+%E2%80%A2+Evaluation+%E2%80%A2+Backend+Engineering;Measure+first.+Claim+second." alt="Typing animation" />
 
 </div>
 
 ---
 
-## 🧠 What I’m into
+## `whoami`
 
-- 🔭 Building AI/ML projects, academic experiments, and open‑source dev tools.  
-- 🧪 Playing with clustering, recommenders, and search (BM25, TF‑IDF, vector-ish vibes).  
-- 🛠️ Crafting small agents, scrapers, and CLI utilities that actually feel fun to use.  
-- 🌱 Currently learning better system design, scalable backends, and deeper ML.
+I’m **Chaitanya Pudota**, a B.Tech CSE (AI & ML) student at **Lovely Professional University**. I like building AI products where the model is only one part of the system: retrieval, validation, deterministic rules, evaluation, observability, and a backend that actually holds up.
 
----
-
-## 🚀 Highlighted work
-
-> Replace descriptions/links as you evolve your projects.
-
-- 🧬 **Collaborative Learning Group Formation via Similarity Clustering**  
-  Forming smarter student study groups using unsupervised learning and real‑world data.
-
-- 🕵️ **FOA Scraper**  
-  A focused scraper to mine FOA / research opportunities data and prep it for GSoC‑style workflows.  
-  `Repo:` [github.com/Cyril-36/foa-scraper](https://github.com/Cyril-36/foa-scraper)
-
-- 🤖 **Support‑Ticket AI Agents (Hackathon builds)**  
-  Terminal‑driven agents that triage and resolve support tickets using search + LLMs.
-
-- 🛒 **ShopWave Autonomous Support Agent**  
-  An experimental agent that navigates orders, tickets, and a knowledge base to resolve customer issues.
-
-> More projects coming soon… stay tuned to the pinned repos 👀
+Right now I’m especially interested in **RAG**, **tool-using agents**, **LLM evaluation**, **FastAPI backends**, **PostgreSQL/pgvector**, and applied ML systems that can show *why* they produced an answer.
 
 ---
 
-## 🛠 Tech I work with
+## Featured builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ClientAtlas](https://github.com/Cyril-36/clientatlas-rag)
+**Multi-tenant RAG workspace**
+
+Hybrid retrieval, citation-backed answers, PostgreSQL row-level security, tenant isolation, and evaluation-first grounding.
+
+`RAG` `PostgreSQL` `pgvector` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### [Tally — AI Data Analyst](https://github.com/Cyril-36/tally-ai-data-analyst)
+**Natural-language analytics with checked calculations**
+
+Users ask questions over CSVs; the AI selects the analysis, while backend code calculates and verifies the numbers, SQL, assumptions, and anomalies.
+
+`FastAPI` `DuckDB` `LLM tools` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CallKavach](https://github.com/Cyril-36/callkavach)
+**Multilingual scam-call warning assistant**
+
+Streaming speech-to-text plus evidence-backed scam-tactic detection for Hindi, Telugu, and English, with deterministic warning rules.
+
+`FastAPI` `WebSockets` `Speech AI` `LLM validation`
+
+</td>
+<td width="50%" valign="top">
+
+### [HarvestSense](https://github.com/Cyril-36/harvestsense)
+**Crop-to-market decision optimizer**
+
+A deterministic planner and validator with tool-using agents for market, logistics, and farmer reasoning over real mandi data.
+
+`Python` `LangGraph` `Pydantic` `Evaluation`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Cyril-36?tab=repositories"><b>Explore all repositories →</b></a>
+</p>
+
+---
+
+## Toolbox
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,react,nextjs,ts,js,sklearn,pytorch&perline=6" alt="Tech stack" />
 
-<br/>
+<br/><br/>
 
-<!-- Web / Frameworks -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<br/>
-
-<!-- AI / Data -->
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-
-<br/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Agents-0D1117?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Evaluation-238636?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 GitHub by the numbers
+## How I like to build
+
+```text
+problem
+  ↓
+small measurable baseline
+  ↓
+deterministic core + bounded AI
+  ↓
+validation / guardrails
+  ↓
+repeatable evaluation
+  ↓
+ship → observe → improve
+```
+
+I prefer **evidence over vibes**: if a system says it is accurate, grounded, safe, or reliable, I want a test or measurement behind that claim.
+
+---
+
+## GitHub signal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cyril-36&show_icons=true&theme=tokyonight&hide_border=true" alt="Cyril's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cyril-36&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-36&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyril-36&theme=tokyonight&hide_border=true" alt="Cyril's GitHub streak" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-36&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cyril-36&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## 🌌 A tiny philosophy
+<div align="center">
 
-> “Build small, ship often, and let the experiments teach you more than the tutorials.”
+### Open to building things that are useful, measurable, and hard to fake.
 
-If you’re into AI, agents, or weird little dev tools, feel free to open an issue, drop a PR, or just say hi in the discussions.
+<sub>AI/ML • Backend systems • RAG • Agents • Evaluation</sub>
 
-<!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=140&section=footer)
+</div>
